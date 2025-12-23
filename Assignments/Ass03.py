@@ -1,4 +1,4 @@
-'''Write a function that prints the digit of a number n, like n=312 then it would be 3  2   1'''
+'''Write a function that prints the digit of a number n, like n=312 then it would be 3  2  1.'''
 
 
 def print_digits(n):

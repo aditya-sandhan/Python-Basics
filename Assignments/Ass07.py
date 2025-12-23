@@ -1,3 +1,5 @@
+'''WAP to accept n numbers from user and display whether each number is positive or negative.'''
+
 for i in range():
     n = int(input("Enter a number: "))
     if (n>0):

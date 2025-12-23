@@ -1,4 +1,4 @@
-'''WAF to return the sum of digits of a number n'''
+'''WAF to return the sum of digits of a number n.'''
 
 def sum_of_digit(n):
     digit_sum = 0

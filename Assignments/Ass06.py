@@ -1,5 +1,5 @@
 '''WAP to print all number form 1 to 100 which are divisible by 3 and 5 both
- Hence table of 15'''
+ Hence table of 15.'''
 
 
 for i in range(1,101):

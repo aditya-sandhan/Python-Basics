@@ -1,4 +1,4 @@
-'''WAF to return the count the number of digits in a number n'''
+'''WAF to return the count the number of digits in a number n.'''
 
 def count_no(n):
     count = 0

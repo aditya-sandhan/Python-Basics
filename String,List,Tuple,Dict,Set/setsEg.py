@@ -5,3 +5,5 @@ print(type(mysets))
 mysets2 = {1,2,3,2,2,2}
 print(mysets2)  # Duplicates will be removed - one copy only
 print(len(mysets2)) # Length will be 3
+
+print(type({}))  # This is a dictionary, not a set

@@ -5,10 +5,11 @@
 info = [
     ("alice","Math"),
     ("bob","Science"),
-    ("charlie","History"),
-    ("david","Art"),
-    ("eve","Math"),
-    ("frank","Science")
+    ("alice","Science"),
+    ("charlie","math"),
+    ("bob","Math"),
+    ("alice","English"),
+    ("charlie","English")
 ]
 course_sets = set()
 for tup in info:

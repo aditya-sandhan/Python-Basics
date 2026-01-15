@@ -1,6 +1,7 @@
 '''Given a list of tuples with info(name,subjects) 
 1)list all unique courses 
 2)list student enrolled in English'''
+# solution :
 
 info = [
     ("alice","Math"),

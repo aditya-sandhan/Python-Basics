@@ -2,7 +2,7 @@
 
 def sum_of_digit(n):
     digit_sum = 0
-    while n>0:
+    while (n>0):
         i = n%10
         sum += i
         

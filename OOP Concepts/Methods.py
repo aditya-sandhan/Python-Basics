@@ -22,5 +22,5 @@ Laptop.get_storage_type()    # Class method can be accessed by Class as well as 
 l1.get_storage_type()       # Here its accessed by object
 
 
-''' Class methods can only access Class attributes but
-    Instance methods can access both class as well as Object attributes!! '''
+'''Class methods can only access Class attributes but
+    Instance methods can access both class as well as Object attributes!!'''

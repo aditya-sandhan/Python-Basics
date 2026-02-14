@@ -1,4 +1,2 @@
-This is a sample text file
-for demo implementation 
-of file operations
-in python language.
+Happy Birthday aditya! 
+Have a great career ahead!
